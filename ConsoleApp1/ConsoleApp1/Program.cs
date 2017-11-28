@@ -15,6 +15,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("hello world");
 
+             Console.WriteLine("I am a stage environment");
+
         }
     }
 }
