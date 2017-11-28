@@ -11,13 +11,10 @@ namespace ConsoleApp1
         {
 
 
-            Console.WriteLine("This is dev branch");
+            Console.WriteLine("This is stash test-1 branch");
 
-            Console.WriteLine("hello world");
 
-             Console.WriteLine("I am a stage environment, I push code first!");
-
-            Console.WriteLine("I am a stage environment, I push code first again!");
+            Console.WriteLine("aI am a stage environment, I push code first again!lllllllllllllllllllll");
 
         }
     }
